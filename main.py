@@ -36,10 +36,5 @@ def main():
 
     print(response.text)
 
-
-
-
-
-
 if __name__ == "__main__":
     main()
